@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <string name="profile_name">Marcus James</string>
+    <string name="profile_id">ID: #HIKS8981N372</string>
+    <string name="img_desc_profile_image">Profile Image</string>
+    <string name="text_contact_us">Please contact us for any kind of technical support by following means,</string>
+    <string name="img_desc_help_icon">Help Icon</string>
+    <string name="phone_number">1234567890</string>
+    <string name="email">xyzcomp@example.com</string>
+    <string name="link">http://xyzcompexample.com</string>
+</resources>

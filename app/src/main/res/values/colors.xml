@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#673AB7</color>
+    <color name="colorPrimaryLight">#B388FF</color>
+    <color name="colorPrimaryDark">#512DA8</color>
+    <color name="colorAccent">#FFD740</color>
+    <color name="primary_text">#000000</color>
+    <color name="secondary_text">#757575</color>
+    <color name="white">#FFF</color>
+    <color name="status_in_progress">#4CAF50</color>
+    <color name="status_stagnated">#FF9800</color>
+    <color name="status_stopped">#F44336</color>
+</resources>
